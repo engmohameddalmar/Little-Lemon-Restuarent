@@ -108,7 +108,7 @@ function BookingForm({
                 </select>
             </div>
 
-            <button type="submit" className="primary-button submit-button">
+            <button type="submit"  aria-label="On Click" className="primary-button submit-button">
                 Make Your Reservation
             </button>
 
